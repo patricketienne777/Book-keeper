@@ -1,1 +1,3 @@
 # Book-keeper
+This week I my last assignment of the class and though I've learned many things throughout the duration of this course, this assignment was definetly on the tricky side. Connecting the back ened to ens ure that the application runs on a different engine wasn't too bad. There was a lot of troubleshooting that had to be done but I was able to make it work. One thing i am not a fan of is deploying my assignments on heroku. After a while they start charging you for their services so I got to make sure to take down my assignment on time before i get charged again. 
+I really appricate my expreince with this bootcamp and I will continue to expand my knowledge in coding on the foundation the ciriculum has set for me!
